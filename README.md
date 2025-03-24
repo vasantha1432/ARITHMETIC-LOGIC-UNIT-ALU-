@@ -17,3 +17,9 @@
 #OUTPUT
 
 ![Image](https://github.com/user-attachments/assets/21494fcf-6771-4565-8b24-87148815c8ae)
+
+
+# OPEN ELABORATED DESIGN
+
+
+![Image](https://github.com/user-attachments/assets/7ee16e6c-8980-4eb5-b76c-83570454b5ed)
